@@ -1,1 +1,2 @@
 Welcome to Git lab
+GitHub is version control
